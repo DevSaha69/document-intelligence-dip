@@ -1,0 +1,37 @@
+# Student submission packages (excluded from public repository)
+*_project/
+*_*_project/
+Dev_Priya_Saha_23cs3022_project/
+
+# Local Tesseract binaries
+tesseract/
+*.zip
+*.tar
+*.gz
+*.exe
+
+# Synthetic generated data (regenerate with `python generate_data.py`)
+data/images/
+data/gt/
+!data/requirements.json
+
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE and OS artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

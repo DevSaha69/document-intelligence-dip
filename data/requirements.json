@@ -1,0 +1,10 @@
+{
+  "name": "Applicant full name",
+  "passport": "Valid passport number",
+  "dob": "Date of birth",
+  "email": "Contact email",
+  "ielts": "English test (IELTS) score",
+  "sop": "Statement of Purpose",
+  "transcript": "Academic transcript"
+}
+

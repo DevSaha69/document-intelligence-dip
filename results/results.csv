@@ -1,0 +1,8 @@
+,Baseline,Improved
+Extraction_Precision,0.818,0.873
+Extraction_Recall,0.211,0.65
+Extraction_F1,0.335,0.745
+Missing_Req_Recall,1.0,1.0
+Missing_Req_Precision,0.3,0.554
+Groundedness,1.0,1.0
+Time_per_doc_s,0.341,0.587

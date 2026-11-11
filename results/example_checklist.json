@@ -1,0 +1,61 @@
+[
+  {
+    "requirement": "Applicant full name",
+    "status": "MISSING",
+    "value": null,
+    "evidence_text": null,
+    "evidence_box": null
+  },
+  {
+    "requirement": "Valid passport number",
+    "status": "MISSING",
+    "value": null,
+    "evidence_text": null,
+    "evidence_box": null
+  },
+  {
+    "requirement": "Date of birth",
+    "status": "OK",
+    "value": "08/03/1996",
+    "evidence_text": "> Qate of Birth: 08/03/1996",
+    "evidence_box": [
+      32,
+      348,
+      416,
+      404
+    ]
+  },
+  {
+    "requirement": "Contact email",
+    "status": "MISSING",
+    "value": null,
+    "evidence_text": null,
+    "evidence_box": null
+  },
+  {
+    "requirement": "English test (IELTS) score",
+    "status": "MISSING",
+    "value": null,
+    "evidence_text": null,
+    "evidence_box": null
+  },
+  {
+    "requirement": "Statement of Purpose",
+    "status": "OK",
+    "value": "attached",
+    "evidence_text": "\u20182 Statement of Purpose: Attached",
+    "evidence_box": [
+      38,
+      625,
+      506,
+      666
+    ]
+  },
+  {
+    "requirement": "Academic transcript",
+    "status": "MISSING",
+    "value": null,
+    "evidence_text": null,
+    "evidence_box": null
+  }
+]
